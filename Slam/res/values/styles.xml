@@ -1,0 +1,155 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+   
+    <style name="DefaultTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/unnamed</item>
+        <item name = "android:textColor">#ffffff</item>
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+
+    <style name = "FeatherTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/feather</item>
+        <item name = "android:textColor">@android:color/black</item>
+       <item name = "android:windowNoTitle">true</item>
+       
+    </style>
+
+    <style name = "GreenTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/green</item>
+        <item name = "android:textColor">@android:color/black</item>
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+
+    <style name = "BlueTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/blue</item>
+        <item name = "android:textColor">#ff2222</item>
+       
+        <item name = "android:windowNoTitle">true</item>
+
+    </style>
+
+    <style name = "YelloTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/yellow</item>
+        <item name = "android:textColor">#ff2222</item>
+        
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+
+  
+    
+    <style name = "Abstract1Theme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/abstract1</item>
+        <item name = "android:textColor">#ff2222</item>
+        
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+    
+    <style name = "Abstract2Theme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/modern</item>
+        <item name = "android:textColor">#ffffff</item>
+        
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+    
+   
+        
+     
+    <style name = "DropTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/drop</item>
+        <item name = "android:textColor">#ffffff</item>
+        
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+    
+    <style name = "YelloFlowerTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/flower</item>
+        <item name = "android:textColor">#11dddd</item>
+        
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+    
+   
+    
+    <style name = "FLowersTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/frst1</item>
+        <item name = "android:textColor">#ff2222</item>
+        
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+    
+    <style name = "HandTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/hands</item>
+        <item name = "android:textColor">#000000</item>
+        
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+    
+    <style name = "MoonTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/moon</item>
+        <item name = "android:textColor">#11ffff</item>
+        
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+    
+    <style name = "NatureTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/nature</item>
+        <item name = "android:textColor">#ff2222</item>
+        
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+    
+    <style name = "Nature1Theme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/nature1</item>
+        <item name = "android:textColor">#ff2222</item>
+        
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+    
+    <style name = "RoadTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/road</item>
+        <item name = "android:textColor">@android:color/white</item>
+        
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+    
+    <style name = "CornTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/corn</item>
+        <item name = "android:textColor">#000000</item>
+        
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+ 
+    <style name = "PinkTreesTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/pinktrees</item>
+        <item name = "android:textColor">#dd0000</item>
+        
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+    
+    <style name = "AlmondTheme" parent="AppBaseTheme">
+        <item name = "android:windowBackground">@drawable/almonds</item>
+        <item name = "android:textColor">#ffffff</item>
+        
+        <item name = "android:windowNoTitle">true</item>
+    </style>
+   
+    
+    
+</resources>
